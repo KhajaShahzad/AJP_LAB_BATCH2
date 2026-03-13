@@ -1,16 +1,37 @@
 {
+<<<<<<< HEAD
   "name": "cn133l",
+=======
+  "name": "ajp_lab_batch2",
+>>>>>>> dd84b69f9331dade14a2a4c001759016c198da70
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
     "mongoose": "^9.3.0"
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhajaShahzad/AJP_LAB_BATCH2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KhajaShahzad/AJP_LAB_BATCH2/issues"
+  },
+  "homepage": "https://github.com/KhajaShahzad/AJP_LAB_BATCH2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+>>>>>>> dd84b69f9331dade14a2a4c001759016c198da70
   }
 }
